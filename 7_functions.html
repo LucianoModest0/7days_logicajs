@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator</title>
+</head>
+<body style="text-align: center; background: rgb(50, 156, 121); font-size: 20px;">
+    <h1 >Calculator</h1>
+    <input type="number" id="n1" onblur="pegarValor()">
+       
+    <input type="button" value="+" onclick="soma()">
+    <input type="button" value="-" onclick="subtracao()">
+    <input type="button" value="*" onclick="multiplicacao()">
+    <input type="button" value="/" onclick="divisao()">
+   
+    <input type="number" id="n2" onblur="pegarValor()">
+
+    <br>
+    <br>
+    <p id="result"></p>
+    <br>
+    <input type="button" value="sair" onclick="sair()">
+
+    <script src="7_functions.js"></script>
+</body>
+</html>
