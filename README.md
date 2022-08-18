@@ -4,4 +4,4 @@
 
 > Tema: Lógica com Javascript 
 
-> O curso pode ser acessado em:  [Challenge Lógica de programação](https://7daysofcode.io/matricula/logica-programacao)
+> O desafio pode ser acessado em:  [Challenge Lógica de programação](https://7daysofcode.io/matricula/logica-programacao)
